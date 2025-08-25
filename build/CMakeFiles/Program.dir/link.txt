@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O2 CMakeFiles/Program.dir/source/main.cpp.o -o Program 

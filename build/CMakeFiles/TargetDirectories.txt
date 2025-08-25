@@ -1,0 +1,3 @@
+/home/kirill/Рабочий стол/CppMySTL/build/CMakeFiles/Program.dir
+/home/kirill/Рабочий стол/CppMySTL/build/CMakeFiles/edit_cache.dir
+/home/kirill/Рабочий стол/CppMySTL/build/CMakeFiles/rebuild_cache.dir
